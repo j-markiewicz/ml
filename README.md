@@ -15,3 +15,9 @@
     You should loop over the dendrogram_history variable and loop over childs.
 - [x] Implement the $s_{2}$ metric
 - [x] [Draw the borders between clusters in the output image (for 5.0 grade)](./1/segmented.png)
+
+## [Exercise 2 - Linear Regression](./2/026_Exercises.ipynb)
+
+- [x] Use the cross-validation method to test the linear regression with different $\alpha$ values, at least three.
+- [ ] Implement a SGD method that will train the Lasso regression for 10 epochs.
+- [ ] Extend the Fisher's classifier to work with two features. Use the class as the $y$.
