@@ -20,4 +20,4 @@
 
 - [x] Use the cross-validation method to test the linear regression with different $\alpha$ values, at least three.
 - [x] Implement a SGD method that will train the Lasso regression for 10 epochs.
-- [ ] Extend the Fisher's classifier to work with two features. Use the class as the $y$.
+- [?] Extend the Fisher's classifier to work with two features. Use the class as the $y$.
