@@ -20,4 +20,11 @@
 
 - [x] Use the cross-validation method to test the linear regression with different $\alpha$ values, at least three.
 - [x] Implement a SGD method that will train the Lasso regression for 10 epochs.
-- [?] Extend the Fisher's classifier to work with two features. Use the class as the $y$.
+- [x] <sup>(?)</sup> Extend the Fisher's classifier to work with two features. Use the class as the $y$.
+
+## [Exercise 3 - Decision Trees](./3/055Decision_trees_Exercises.ipynb)
+
+- [x] Rewrite the CART method to the Gini index.
+- [ ] Use pydot do draw the tree for C4.5 example.
+- [ ] Implement the minimum number of objects pruning method.
+- [ ] Plot OC1 tree, but instead of elements id, print the feature id it was split by.
