@@ -27,4 +27,4 @@
 - [x] Rewrite the CART method to the Gini index.
 - [x] Use pydot do draw the tree for C4.5 example.
 - [x] Implement the minimum number of objects pruning method.
-- [ ] Plot OC1 tree, but instead of elements id, print the feature id it was split by.
+- [x] Plot OC1 tree, but instead of elements id, print the feature id it was split by.
