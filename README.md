@@ -28,3 +28,8 @@
 - [x] Use pydot do draw the tree for C4.5 example.
 - [x] Implement the minimum number of objects pruning method.
 - [x] Plot OC1 tree, but instead of elements id, print the feature id it was split by.
+
+## [Exercise 4 - Support Vector Machine](./4/065_SVM_Exercises.ipynb)
+
+- [x] Implement the polynomial kernel.
+- [x] Implement the multiclass C-SVM.
