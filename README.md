@@ -34,6 +34,11 @@
 - [x] Implement the polynomial kernel.
 - [x] Implement the multiclass C-SVM.
 
+## [Exercise 4.5 - Ensemble](./4.5/075Ensemble_Exercises.ipynb)
+
+- [x] Find the best three classifier in the stacking method using the classifiers from scikit-learn package.
+- [x] Build arcing arc-x4 method.
+
 ## [Exercise 5 - NLP](./5/106_NLP_Exercises.ipynb)
 
 - [x] Build your own tokenizer, where you need to implement two functions to implement a tokenizer based on regular expression.
